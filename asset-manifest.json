@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ikshita-N/web/static/css/main.a25811df.css",
+    "main.js": "/Ikshita-N/web/static/js/main.06663227.js",
+    "static/js/453.5565870f.chunk.js": "/Ikshita-N/web/static/js/453.5565870f.chunk.js",
+    "index.html": "/Ikshita-N/web/index.html",
+    "main.a25811df.css.map": "/Ikshita-N/web/static/css/main.a25811df.css.map",
+    "main.06663227.js.map": "/Ikshita-N/web/static/js/main.06663227.js.map",
+    "453.5565870f.chunk.js.map": "/Ikshita-N/web/static/js/453.5565870f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25811df.css",
+    "static/js/main.06663227.js"
+  ]
+}
